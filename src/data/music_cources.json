@@ -49,6 +49,36 @@
 			"instructor": "David Brown",
 			"isFeatured": true,
 			"image": "/courses/blues.jpg"
+		},
+		{
+			"id": 6,
+			"title": "Jazz Piano Improvisation",
+			"slug": "jazz-piano-improvisation",
+			"description": "Master the art of jazz piano improvisation with techniques for all levels.",
+			"price": 99.99,
+			"instructor": "Chris Martin",
+			"isFeatured": true,
+			"image": "/courses/jazz.jpg"
+		},
+		{
+			"id": 7,
+			"title": "Classical Music Theory",
+			"slug": "classical-music-theory",
+			"description": "Understand the fundamentals of classical music theory and composition.",
+			"price": 99.99,
+			"instructor": "Anna Lee",
+			"isFeatured": true,
+			"image": "/courses/classical.jpg"
+		},
+		{
+			"id": 8,
+			"title": "Rock Drumming Techniques",
+			"slug": "rock-drumming-techniques",
+			"description": "Learn essential drumming techniques to excel in rock music.",
+			"price": 99.99,
+			"instructor": "Robert Taylor",
+			"isFeatured": true,
+			"image": "/courses/drumming.jpg"
 		}
 	]
 }
